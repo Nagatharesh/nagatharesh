@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm nagatharesh</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate pre-final year Student From Chennai</h3>
 
 - 🌱 I’m currently learning **AI Technologies**
 
