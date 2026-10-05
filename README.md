@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm nagatharesh</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🌱 I’m currently learning **java spring boot**
+- 🌱 I’m currently learning **AI Technologies**
 
 - 💬 Ask me about **react ,java ,python, AI Development**
 
